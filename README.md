@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on chaitin.
 - 🌱 I’m currently learning java/go/python.
 - 👀 I’m interested in Security.
-- ⚡ Fun fact: I'm script kiddie.
+- ⚡ Fun fact: I'm a script kiddie.
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - ⚡ Fun fact:  -->
